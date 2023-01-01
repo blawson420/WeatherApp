@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string-array name="weather_details">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Storm</item>
+    </string-array>
+</resources>
